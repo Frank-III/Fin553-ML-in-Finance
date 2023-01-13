@@ -1,2 +1,2 @@
 # Fin553-ML-in-Finance
-CourseMaterial
+Course Material
